@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Twierdza Soundboard</string>
+
+    <string name="text1">Ty nierozważny prostaku</string>
+    <string name="text2">Dziwna dolegliwość</string>
+    <string name="text3">Przybył błazen</string>
+    <string name="text4">Popularność rośnie</string>
+    <string name="text5">Popularność spada</string>
+    <string name="text6">Ludzie przybywają</string>
+    <string name="text7">Lepiej nie pokazuj się</string>
+
+    <string name="text8">Stara mućka</string>
+    <string name="text9">Nowy błazen</string>
+    <string name="text10">Jedzenie</string>
+
+    <string name="text11">Madejowe łoże</string>
+    <string name="text12">Gnębi się ludzi</string>
+    <string name="text13">Dzień dobry</string>
+    <string name="text14">Brawo</string>
+    <string name="text15">Zerowy podatek to jedno</string>
+    <string name="text16">Pustynia czeka na ciebie</string>
+    <string name="text17">Jesteś najokrutniejszym tyranem</string>
+    <string name="text18">Nie rozdajemy jedzenia</string>
+    <string name="text19">Jak to nie ma jedzenia</string>
+
+    <string name="text20">Pilnuj pleców</string>
+    <string name="text21">Sępy się zbierają</string>
+    <string name="text22">Testujesz moją cierpliwość</string>
+    <string name="text23">Niewierny</string>
+    <string name="text24">Asasyni pną się na mury</string>
+    <string name="text25">Lord zginął</string>
+    <string name="text26">Budynki płoną</string>
+    <string name="text27">Podwójne racje</string>
+    <string name="text28">Spichlerz jest pusty</string>
+    <string name="text29">Nie można budować</string>
+    <string name="text30">Zostałeś pokonany</string>
+    <string name="text31">Dzień dobry 2</string>
+    <string name="text32">Wiadomość od Wieprza</string>
+    <string name="text33">Opuszczają zamek</string>
+    <string name="text34">Trebusz 1</string>
+    <string name="text35">Trebusz 2</string>
+    <string name="text36">Potrzeba inżynierów</string>
+    <string name="text37">Pałkarze</string>
+    <string name="text38">Karma dla świń</string>
+    <string name="text39">Brak piwa</string>
+    <string name="text40">Drugie krzesło</string>
+    <string name="text41">Chyba zgłupiałeś</string>
+    <string name="text42">Grupa żołnierzy arabskich</string>
+    <string name="text43">Wilki atakują</string>
+    <string name="text44">♪</string>
+    <string name="text45">Arab 1</string>
+    <string name="text46">Arab 2</string>
+    <string name="text47">Arab 3</string>
+    <string name="text48">Arab 4</string>
+    <string name="text49">Arab 5</string>
+
+</resources>
